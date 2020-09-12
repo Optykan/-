@@ -15,7 +15,7 @@
     "m3u8stream": "^0.6.3",
     "mathjax-node": "^2.0.1",
     "mathjax-node-svg2png": "^2.0.0",
-    "node-fetch": "^2.0.0",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.3.3",
     "opusscript": "0.0.6",
     "parse-time": "^0.1.4",
